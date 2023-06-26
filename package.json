@@ -19,6 +19,7 @@
     "file-loader": "^6.2.0",
     "html-loader": "^4.2.0",
     "html-webpack-plugin": "^5.5.3",
+    "internal-ip": "^8.0.0",
     "lil-gui": "^0.18.2",
     "mini-css-extract-plugin": "^2.7.6",
     "portfinder-sync": "^0.0.2",
